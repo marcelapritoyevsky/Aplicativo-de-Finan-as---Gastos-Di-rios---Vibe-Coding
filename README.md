@@ -21,9 +21,9 @@ A aplicação apresenta gráficos dinâmicos e comparativos mensais, permitindo 
 ## 🎨 Prints da Aplicação
 Abaixo estão algumas telas geradas com Lovable durante o processo de criação:
 
-![Tela inicial - Gastos do dia](./tela-inicial.png)
-![Tela mensal - Agosto de 2026](./tela-mensal.png)
-![Tela de categorias e novo gasto](./tela-categorias.png)
+![Tela inicial - Gastos do dia](./TelaInicial.png)
+![Tela mensal - Agosto de 2026](./mensal.png)
+![Tela de categorias e novo gasto](./mensal_full.png)
 
 ---
 
